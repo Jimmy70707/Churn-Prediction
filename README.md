@@ -92,19 +92,21 @@ uvicorn api:app --host 0.0.0.0 --port 8080
 API will be available at:
 
 http://localhost:8080
-Swagger UI:
 
 http://localhost:8080/docs
+
 Start the Streamlit frontend
 ```
 streamlit run streamlit_app.py
 ```
+
 App will open at:
 
 http://localhost:8501
 
 ###  🔌 API Endpoints
 GET /
+
 Health check
 
 {
@@ -112,6 +114,7 @@ Health check
 }
 
 POST /predict
+
 Structured churn prediction
 
 Request example:
@@ -144,6 +147,7 @@ Response :
   
 }
 POST /chat
+
 Natural language churn analysis
 
 Request example:
