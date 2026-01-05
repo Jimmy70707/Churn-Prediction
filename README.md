@@ -33,9 +33,10 @@ churn-prediction/
 │   └── log_reg_with_encoders.pkl
 
 ├──data/
+
    └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 
-   └── meta.json
+ └── meta.json
     
 ├── requirements.txt       # Python dependencies
 
