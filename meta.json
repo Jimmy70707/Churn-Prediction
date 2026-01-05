@@ -1,0 +1,28 @@
+{
+  "dropped_columns": [
+    "gender",
+    "Phone_Service",
+    "Dual",
+    "Streaming_TV",
+    "Streaming_Movies",
+    "Total_Charges"
+  ],
+  "numeric_columns": [
+    "Senior_Citizen ",
+    "tenure",
+    "Monthly_Charges"
+  ],
+  "categorical_columns": [
+    "Is_Married",
+    "Dependents",
+    "Internet_Service",
+    "Online_Security",
+    "Online_Backup",
+    "Device_Protection",
+    "Tech_Support",
+    "Contract",
+    "Paperless_Billing",
+    "Payment_Method"
+  ],
+  "target": "Churn"
+}
