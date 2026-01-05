@@ -27,14 +27,15 @@ churn-prediction/
 │   └── streamlit_app.py       # Frontend web interface     
 
 ├── models/
+
 │   └── churn_pipeline.pkl
 
 │   └── log_reg_with_encoders.pkl
 
-└── data/                 # Dataset folder
-    └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+└── data/
+   └── └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 
-    └── meta.json
+  └──  └── meta.json
     
 ├── requirements.txt       # Python dependencies
 
