@@ -213,3 +213,11 @@ This project is licensed under the MIT License.
 Muhammed Gamal
 
 Machine Learning & AI Engineer
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/Muhammed Gamal" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/> </a>
+&nbsp;&nbsp; 
+
+<a href="https://github.com/Jimmy70707" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> </a> &nbsp;&nbsp; 
+
+<a href="mailto:muhammed.gammal00@gmail.com"> <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="30" height="30"/> </a> </p>
