@@ -34,9 +34,9 @@ churn-prediction/
 
 ├──data/
 
-   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 
- └── meta.json
+│   └── meta.json
     
 ├── requirements.txt       # Python dependencies
 
